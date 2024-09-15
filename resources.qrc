@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/notes.ico</file>
+        <file>icons/questionmark.ico</file>
+        <file>icons/soundOff.ico</file>
+        <file>icons/soundOn.ico</file>
+        <file>icons/rocket.png</file>
+    </qresource>
+    <qresource prefix="/pictures">
+        <file>pictures/future.jpg</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>sounds/dendy.mp3</file>
+        <file>sounds/short.mp3</file>
+    </qresource>
+</RCC>
